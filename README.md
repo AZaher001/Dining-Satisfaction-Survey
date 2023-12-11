@@ -1,12 +1,19 @@
 Dining Satisfaction Dataset
 
 Satisfaction: Dining satisfaction level (Satisfaction, neutral, or dissatisfaction)
+
 Age: The actual age of the diners
+
 Gender: Gender of the diners (Female, Male)
+
 Type of Dining: Purpose of the visit to the restaurant (Personal Dining, Business Dining)
+
 Ambiance: Dining ambiance in the restaurant.
+
 Customer Type: The customer type (Loyal customer, disloyal customer)
+
 Distance from Home: Distance traveled to reach the restaurant
+
 WiFi Service: Satisfaction level of the restaurant's WiFi service
 Ease of Booking: Satisfaction level of the reservation process
 Table Service: Satisfaction level of table service
